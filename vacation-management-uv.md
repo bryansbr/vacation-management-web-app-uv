@@ -224,6 +224,8 @@ Este proyecto de grado se limitará al desarrollo de la aplicación web que perm
 
 ### 5.2. Estado del Arte
 
+#### 5.2.1 Implementación de un sistema Web para Talento Humano en la Universidad Central de Ecuador
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
