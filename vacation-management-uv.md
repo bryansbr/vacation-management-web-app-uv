@@ -254,6 +254,62 @@ Después de registrar la información en la hoja de Excel, se generaba un docume
 
 </center>
 
+<p style="text-align: justify;">
+Para afrontar estos desafíos, se diseñó y puso en marcha un sistema web utilizando Java como lenguaje de programación, JavaServer Faces (JSF) e Hibernate como frameworks, Wildfly como servidor de aplicaciones y Oracle Express 11g como motor de bases de datos para asegurar que esta fuese robusta y escalable. En el proceso de desarrollo se aplicó la metodología eXtreme Programming (XP) con el objetivo de garantizar que el sistema se creara de acuerdo con las necesidades reales de la Dirección de Talento Humano.
+</p>
+
+<p style="text-align: justify;">
+El desarrollo del sistema web se enfocó en validar los siguientes objetivos:
+</p>
+
+- Identificar las necesidades y requerimientos funcionales del sistema.
+- Gestionar la concesión de vacaciones de forma automática.
+- Gestionar el registro de permisos personales.
+- Gestionar la emisión de licencias de forma automática.
+- Gestionar el registro de sanciones.
+- Generar informes y reportes.
+
+<br><p style="text-align: justify;">
+Con la implementación del módulo, se logró optimizar el tiempo en los diferentes procesos mencionados, permitiendo que las solicitudes de los funcionarios fuesen atendidas de forma rápida y eficiente.
+
+</p>
+
+<center>
+
+![](assets\figs\fig3_prototipo-menu-principal.png)
+
+**Figura 3.** Prototipo del menú principal. Tomado de [].
+
+</center>
+
+<center>
+
+![](assets\figs\fig4_formulario_registro_vacaciones.png)
+
+**Figura 4.** Formulario de registro de vacaciones. Tomado de [].
+
+</center>
+
+<center>
+
+![](assets\figs\fig5_formato-autorizacion-vacaciones.png)
+
+**Figura 5.** Formato de autorización de vacaciones autogenerado. Tomado de [].
+
+</center>
+
+<p style="text-align: justify;">
+El proceso de solicitud de vacaciones se consolidó de la siguiente forma:
+</p>
+
+<center>
+
+![](assets\figs\fig6_nuevo-registro-vacaciones.png)
+
+**Figura 6.** Nuevo Registro de Vacaciones. Tomado de [].
+
+</center>
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
