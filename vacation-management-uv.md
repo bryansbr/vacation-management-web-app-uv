@@ -226,6 +226,22 @@ Este proyecto de grado se limitará al desarrollo de la aplicación web que perm
 
 #### 5.2.1 Implementación de un sistema Web para Talento Humano en la Universidad Central de Ecuador
 
+<p style="text-align: justify;">
+La Dirección de Talento Humano de la Universidad Central del Ecuador (UCE) enfrentaba diversos desafíos en la gestión de solicitudes relacionadas con el personal administrativo, incluyendo vacaciones, licencias, permisos, y el registro de sanciones. Su sistema de gestión, desarrollado en la herramienta empresarial PowerBuilder, era obsoleto, ineficiente, y no se adecuaba a las necesidades actuales. Además, procesos como la autorización y seguimiento de solicitudes de vacaciones se llevaban a cabo manualmente, lo que requería una cantidad significativa de tiempo y esfuerzo, causaba demoras en el procesamiento de solicitudes, propiciaba errores en los cálculos de días, resultaba en la pérdida de información crucial y no permitía la visibilidad del estado de estas solicitudes.
+</p>
+
+<p style="text-align: justify;">
+En el caso de las solicitudes de vacaciones, el empleado debía presentar un oficio a su supervisor, quien decidía si aprobar o no la solicitud. En caso de aprobación, esta se enviaba a la Dirección de Talento Humano y era registrada por el Analista encargado del proceso. Todos los registros se consolidaban en una hoja de Excel con aproximadamente 1000 registros, cada una con atributos como nombre, departamento, régimen, fecha de ingreso, número de permisos en días y horas, saldos de vacaciones pendientes, entre otros.
+</p>
+
+<center>
+
+![](assets\figs\fig1_archivo-vacaciones.png)
+
+**Figura 1.** Archivo de vacaciones. Tomado de [].
+
+</center>
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
