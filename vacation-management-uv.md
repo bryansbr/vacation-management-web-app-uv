@@ -310,6 +310,15 @@ El proceso de solicitud de vacaciones se consolidó de la siguiente forma:
 
 </center>
 
+<p style="text-align: justify;">
+De todo el proceso de desarrollo del sistema web se obtuvieron las siguientes conclusiones:
+</p><br>
+
+- La aplicación web contribuyó en gran medida a establecer procesos específicos para la concesión de vacaciones y permisos que antes no estaban claramente definidos.
+- La gestión automatizada de la concesión de vacaciones permitió mantener registros actualizados de los saldos de vacaciones, lo que agilizó la emisión de autorizaciones y garantizó respuestas rápidas a las solicitudes.
+- La información administrativa relacionada con los empleados de la UCE pudo centralizarse en los servidores de la Dirección de Tecnología.
+- Se logró segmentar la información de los empleados, evitando la carga masiva de datos, como ocurría en el sistema anterior de Talento Humano.
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
