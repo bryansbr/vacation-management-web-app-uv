@@ -242,6 +242,18 @@ En el caso de las solicitudes de vacaciones, el empleado debía presentar un ofi
 
 </center>
 
+<p style="text-align: justify;">
+Después de registrar la información en la hoja de Excel, se generaba un documento en Word que requería ser personalizado con los datos del empleado antes de imprimirlo y enviarlo al director(a) de la Dirección de Talento Humano para su firma. Posteriormente, el documento firmado se entregaba al interesado.
+</p>
+
+<center>
+
+![](assets\figs\fig2_autorizacion-vacaciones-anuales.png)
+
+**Figura 2.** Autorización de vacaciones anuales. Tomado de [].
+
+</center>
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
