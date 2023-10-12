@@ -397,6 +397,14 @@ También se podían generar reportes del estado de vacaciones de los empleados:
 
 </center>
 
+<p style="text-align: justify;">
+De todo el proceso de desarrollo se obtuvieron las siguientes conclusiones:
+</p>
+
+- Se optimizó de manera eficiente la gestión de los registros de los empleados.
+- Se logró una integración ordenada de los procesos en el departamento de Recursos Humanos, lo que resultó en una mayor eficiencia en la ejecución de cada actividad.
+- La centralización de la información posibilitó la generación de informes y estadísticas para su análisis correspondiente.
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
