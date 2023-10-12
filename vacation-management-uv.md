@@ -319,6 +319,8 @@ De todo el proceso de desarrollo del sistema web se obtuvieron las siguientes co
 - La información administrativa relacionada con los empleados de la UCE pudo centralizarse en los servidores de la Dirección de Tecnología.
 - Se logró segmentar la información de los empleados, evitando la carga masiva de datos, como ocurría en el sistema anterior de Talento Humano.
 
+#### 5.2.2 Módulo de Gestión del Personal para el Área de Recursos Humanos para el Hospital San Vicente de Paúl
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
