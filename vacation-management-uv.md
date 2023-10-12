@@ -321,6 +321,18 @@ De todo el proceso de desarrollo del sistema web se obtuvieron las siguientes co
 
 #### 5.2.2 Módulo de Gestión del Personal para el Área de Recursos Humanos para el Hospital San Vicente de Paúl
 
+<p style="text-align: justify;">
+El departamento de Recursos Humanos del Hospital San Vicente de Paúl en Ibarra, Ecuador, enfrentaba la necesidad de implementar un módulo de gestión de personal para manejar eficazmente aspectos como sanciones, estadísticas, días festivos, vacaciones, contratos, reportes, licencias médicas, selección de candidatos y nómina de los empleados. Estos procesos anteriormente se gestionaban de forma manual.
+</p>
+
+<center>
+
+![](assets\figs\fig7_esquema-general-proyecto-hsvdp.png)
+
+**Figura 7.** Esquema general del proyecto Hospital San Vicente de Paúl. Tomado de [].
+
+</center>
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
