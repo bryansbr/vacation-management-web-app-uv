@@ -385,6 +385,18 @@ El panel de vacaciones resultante incluía todas las operaciones relacionadas co
 
 </center>
 
+<p style="text-align: justify;">
+También se podían generar reportes del estado de vacaciones de los empleados:
+</p>
+
+<center>
+
+![](assets\figs\fig12_reportes-registros-vacaciones-empleados.png)
+
+**Figura 12.** Reporte de los registros de vacaciones de los empleados. Tomado de [].
+
+</center>
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
