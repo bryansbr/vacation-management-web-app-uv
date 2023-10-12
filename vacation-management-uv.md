@@ -333,6 +333,30 @@ El departamento de Recursos Humanos del Hospital San Vicente de Paúl en Ibarra,
 
 </center>
 
+<p style="text-align: justify;">
+Para afrontar esta problemática, se desarrolló e implementó un módulo web utilizando PHP con el framework Symfony, siguiendo el enfoque del patrón MVC (Modelo-Vista-Controlador). La base de datos se gestionó mediante MySQL. En cuanto a la metodología de trabajo, se empleó el Proceso Unificado de Rational (RUP).
+</p>
+
+<p style="text-align: justify;">
+El proceso de solicitud y aprobación de vacaciones se consolidó de la siguiente manera:
+</p>
+
+- El usuario especifica la acción a ejecutar, en este caso: Registros de Vacaciones.
+- El sistema solicita el ingreso del nombre del empleado.
+- El sistema verifica que el registro exista.
+- El usuario ingresa en el sistema la información de las vacaciones.
+- El usuario debe verificar y registrar la fecha de inicio y fin de la solicitud de vacaciones.
+- El usuario asigna vacaciones al empleado.
+- El sistema actualiza los reportes.
+
+<br><center>
+
+![](assets\figs\fig8_diagrama-secuencia-controlar-vacaciones.png)
+
+**Figura 8.** Diagrama de secuencia: Controlar vacaciones. Tomado de [].
+
+</center>
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
