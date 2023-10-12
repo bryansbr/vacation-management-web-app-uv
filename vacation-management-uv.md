@@ -357,6 +357,34 @@ El proceso de solicitud y aprobación de vacaciones se consolidó de la siguient
 
 </center>
 
+<p style="text-align: justify;">
+El panel de vacaciones resultante incluía todas las operaciones relacionadas con la gestión de la información de las vacaciones de los empleados, como: crear nueva vacación, eliminar vacación, generar informe de vacaciones, editar vacación, imprimir vacación.
+</p>
+
+<center>
+
+![](assets\figs\fig9_panel-vacaciones.png)
+
+**Figura 9.** Panel de vacaciones. Tomado de [].
+
+</center>
+
+<center>
+
+![](assets\figs\fig10_formulario-registro-nueva-vacacion.png)
+
+**Figura 10.** Formulario de registro de nueva vacación. Tomado de [].
+
+</center>
+
+<center>
+
+![](assets\figs\fig11_formato-solicitud-vacacion.png)
+
+**Figura 11.** Formato de solicitud de vacación. Tomado de [].
+
+</center>
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
