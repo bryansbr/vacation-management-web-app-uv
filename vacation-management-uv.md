@@ -405,6 +405,8 @@ De todo el proceso de desarrollo se obtuvieron las siguientes conclusiones:
 - Se logró una integración ordenada de los procesos en el departamento de Recursos Humanos, lo que resultó en una mayor eficiencia en la ejecución de cada actividad.
 - La centralización de la información posibilitó la generación de informes y estadísticas para su análisis correspondiente.
 
+#### 5.2.3 Sistema Web para la Gestión del Recurso Humano de la Dirección Provincial de Educación de Imbabura SIG-RRHH mediante la utilización del framework Symfony
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
