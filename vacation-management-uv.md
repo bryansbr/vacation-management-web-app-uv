@@ -407,6 +407,14 @@ De todo el proceso de desarrollo se obtuvieron las siguientes conclusiones:
 
 #### 5.2.3 Sistema Web para la Gestión del Recurso Humano de la Dirección Provincial de Educación de Imbabura SIG-RRHH mediante la utilización del framework Symfony
 
+<p style="text-align: justify;">
+La Dirección Provincial de Educación de Imbabura, Ecuador presentaba problemas para gestionar la información de su unidad de Recursos Humanos, ya que esta era almacenada en papel y en procesadores de texto, dificultando los trámites administrativos y con el riesgo latente de pérdida de información. 
+</p>
+
+<p style="text-align: justify;">
+Para abordar este desafío, se procedió a desarrollar e implementar un módulo web en PHP, aprovechando Symfony como framework junto al patrón MVC (Modelo-Vista-Controlador). Para la gestión de la base de datos, se eligió MySQL como motor. En lo que respecta a la metodología de trabajo, se optó por la aplicación de RUP (Proceso Unificado de Rational).
+</p>
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
