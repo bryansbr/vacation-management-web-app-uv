@@ -415,6 +415,24 @@ La Dirección Provincial de Educación de Imbabura, Ecuador presentaba problemas
 Para abordar este desafío, se procedió a desarrollar e implementar un módulo web en PHP, aprovechando Symfony como framework junto al patrón MVC (Modelo-Vista-Controlador). Para la gestión de la base de datos, se eligió MySQL como motor. En lo que respecta a la metodología de trabajo, se optó por la aplicación de RUP (Proceso Unificado de Rational).
 </p>
 
+<p style="text-align: justify;">
+Para el apartado de vacaciones se consolidó el siguiente proceso:
+</p>
+
+- El usuario define la acción deseada, en este caso, la solicitud de Registro de Vacaciones.
+- El sistema presenta el filtro de búsqueda, donde el usuario debe introducir la cédula del empleado al que se le asignarán las vacaciones.
+- El sistema comprueba la existencia del parámetro de búsqueda, es decir, el número de cédula. Si se encuentra, muestra el filtro de búsqueda correspondiente.
+- Si el sistema detecta el parámetro de búsqueda, procede a realizar la consulta basada en dicho parámetro.
+- En caso de no proporcionar el parámetro de búsqueda, el sistema muestra automáticamente el filtro de consulta.
+- Una vez que se muestra la consulta, el usuario accede a la acción de vacaciones.
+- Se procede a ingresar los datos requeridos en el formulario.
+- Se efectúa una validación de fechas al ingresar cada una de ellas y se verifica la integridad de los datos del registro de vacaciones.
+- El estado del sistema cambia a ‘Listo’ para ejecutar la acción correspondiente.
+- Cuando el sistema detecta fechas inválidas, se muestra el mensaje de error "Fecha inválida".
+- El usuario tiene la opción de volver a ingresar las fechas para una nueva verificación en caso de errores.
+- Si el sistema confirma que las fechas ingresadas son correctas, procede al almacenamiento del registro correspondiente.
+- El usuario visualiza la acción relacionada con las vacaciones, la cual puede imprimirse para su legalización correspondiente.
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
