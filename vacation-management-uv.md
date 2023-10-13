@@ -433,6 +433,14 @@ Para el apartado de vacaciones se consolidó el siguiente proceso:
 - Si el sistema confirma que las fechas ingresadas son correctas, procede al almacenamiento del registro correspondiente.
 - El usuario visualiza la acción relacionada con las vacaciones, la cual puede imprimirse para su legalización correspondiente.
 
+<br><center>
+
+![](assets\figs\fig13_diagrama-actividades-proceso-vacaciones.png)
+
+**Figura 13.** Diagrama de actividades - Proceso de vacaciones. Tomado de [].
+
+</center>
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
