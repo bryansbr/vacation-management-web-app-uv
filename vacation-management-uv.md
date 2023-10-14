@@ -471,6 +471,16 @@ Para el desarrollo de la solución, se utilizó el lenguaje de programación PHP
 
 </center>
 
+<p style="text-align: justify;">
+Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
+</p>
+
+- La implementación de la aplicación web tuvo un impacto positivo tanto en el personal de gestión de recursos humanos como en los empleados, al optimizar procesos como la generación de certificados laborales, las solicitudes de vacaciones y las contrataciones.
+- La aplicación web facilitó el acceso de los empleados a sus solicitudes, ofreciendo un proceso sencillo y rápido, al tiempo que garantizaba la privacidad y confidencialidad de la información.
+- Las aplicaciones de software, en particular las aplicaciones web, siguen siendo una solución efectiva para abordar diversas necesidades dentro de las organizaciones gracias a sus ventajas y beneficios.
+- La accesibilidad de los empleados a través de un navegador web elimina la necesidad de instalar la aplicación en sus dispositivos, lo que simplifica el proceso y asegura que los cambios en la aplicación se reflejen de inmediato para todos los usuarios.
+- La aplicación web ofrece flexibilidad y capacidad de respuesta, lo que resulta especialmente útil en situaciones que requieren modificaciones urgentes en la aplicación para mejorar la eficiencia y eficacia de los procesos.
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
