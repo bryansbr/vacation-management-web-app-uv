@@ -463,6 +463,14 @@ De igual manera, se enfrentaban a desafíos relacionados con las solicitudes de 
 Para el desarrollo de la solución, se utilizó el lenguaje de programación PHP. Como motor de bases de datos, se utilizó SQL Server, que era el motor de bases de datos empleado en la empresa. En lo que respecta al patrón de arquitectura, se optó por MVC (Modelo-Vista-Controlador).
 </p>
 
+<center>
+
+![](assets\figs\fig14_diagrama-actividades-solicitud-vacaciones.png)
+
+**Figura 14.** Diagrama de actividades - Solicitud de vacaciones. Tomado de [].
+
+</center>
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
