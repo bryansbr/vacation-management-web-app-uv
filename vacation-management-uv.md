@@ -441,6 +441,14 @@ Para el apartado de vacaciones se consolidó el siguiente proceso:
 
 </center>
 
+<p style="text-align: justify;">
+Las conclusiones obtenidas del desarrollo fueron las siguientes:
+</p>
+
+- El sistema desarrollado proporcionó una contribución significativa a la Unidad de Recursos Humanos de la Dirección Provincial de Educación de Imbabura, simplificando el registro y la gestión del personal, reduciendo la carga de tareas repetitivas y generando resultados más eficientes.
+- El sistema optimiza una variedad de procesos relacionados con la gestión de personal, que incluyen nombramientos, cambios, traslados, renuncias, licencias médicas, jubilaciones, vacaciones, así como el registro de permisos ocasionales y nuevas contrataciones.
+- La elección de software libre garantiza que el sistema pueda ser continuamente desarrollado, mejorado y adaptado. Esto asegura la longevidad y la flexibilidad del sistema, lo cual es fundamental en entornos en constante evolución.
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
