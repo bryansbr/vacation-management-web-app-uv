@@ -451,6 +451,18 @@ Las conclusiones obtenidas del desarrollo fueron las siguientes:
 
 #### 5.2.4 Diseño e Implementación de un Sistema para Automatizar la Gestión de Procesos de Contratación de Empleados, Solicitud de Vacaciones y Generación de Certificados Laborales
 
+<p style="text-align: justify;">
+La empresa Talentos y Tecnología S.A.S se enfrentaba a un desafío significativo en la gestión de sus contratos laborales. Estos contratos se realizaban en documentos de Word, sin ninguna medida de seguridad. Cada vez que surgía una nueva contratación o el reingreso de un empleado, el responsable debía buscar el contrato relevante, abrir el documento en Word y completar manualmente la información personal del empleado antes de imprimirlo. Además, no se llevaba un registro de las modificaciones realizadas en los contratos laborales, lo que podía derivar en riesgos legales.
+</p>
+
+<p style="text-align: justify;">
+De igual manera, se enfrentaban a desafíos relacionados con las solicitudes de vacaciones por parte de los empleados. Los tiempos de respuesta eran tardíos, faltaba información sobre los derechos a vacaciones, así como del procedimiento para solicitarlas.
+</p>
+
+<p style="text-align: justify;">
+Para el desarrollo de la solución, se utilizó el lenguaje de programación PHP. Como motor de bases de datos, se utilizó SQL Server, que era el motor de bases de datos empleado en la empresa. En lo que respecta al patrón de arquitectura, se optó por MVC (Modelo-Vista-Controlador).
+</p>
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
