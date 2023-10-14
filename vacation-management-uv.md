@@ -449,6 +449,8 @@ Las conclusiones obtenidas del desarrollo fueron las siguientes:
 - El sistema optimiza una variedad de procesos relacionados con la gestión de personal, que incluyen nombramientos, cambios, traslados, renuncias, licencias médicas, jubilaciones, vacaciones, así como el registro de permisos ocasionales y nuevas contrataciones.
 - La elección de software libre garantiza que el sistema pueda ser continuamente desarrollado, mejorado y adaptado. Esto asegura la longevidad y la flexibilidad del sistema, lo cual es fundamental en entornos en constante evolución.
 
+#### 5.2.4 Diseño e Implementación de un Sistema para Automatizar la Gestión de Procesos de Contratación de Empleados, Solicitud de Vacaciones y Generación de Certificados Laborales
+
 ### 5.3. Marco Teórico
 
 ## 6. Metodología
