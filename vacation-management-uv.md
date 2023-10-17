@@ -489,6 +489,12 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 - **Framework:** Conjunto de herramientas y reglas que facilita el desarrollo de software al proporcionar una estructura y funcionalidades comunes para los programadores. También es conocido como ‘Marco de trabajo’.
 - **Hibernate:** Framework de mapeo objeto-relacional que facilita el almacenamiento y recuperación de objetos Java en una base de datos.
 - **Java:** Lenguaje de programación de propósito general ampliamente utilizado en el desarrollo de aplicaciones y servicios en línea.
+- **JavaServer Faces (JSF):** Framework de desarrollo de Java para crear interfaces de usuario web basadas en componentes.
+- **Modelo-Vista-Controlador (MVC):** Patrón de diseño de software que separa la lógica de una aplicación en tres componentes: modelo (representación de la información), vista (información y lógica de negocio) y controlador (El que responde a eventos, usualmente acciones del usuario).
+- **MySQL:** Sistema de gestión de bases de datos de código abierto que se utiliza comúnmente para almacenar y administrar datos.
+- **Oracle Express:** Edición de la base de datos Oracle que ofrece funcionalidades de nivel empresarial en un formato ligero.
+- **PHP:** Lenguaje de programación ampliamente utilizado en el desarrollo de aplicaciones y sitios web dinámicos.
+- **PowerBuilder:** Herramienta de desarrollo de software utilizada para crear aplicaciones empresariales.
 
 ## 6. Metodología
 
