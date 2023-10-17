@@ -483,6 +483,13 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 
 ### 5.3. Marco Teórico
 
+- **Diagrama de actividades:** Representación gráfica que muestra el flujo de actividades o procesos en un sistema o proyecto.
+- **eXtreme Programming (XP)**: Enfoque de desarrollo de software ágil que se centra en la comunicación y la flexibilidad, con énfasis en la entrega continua de software de alta calidad.
+- **Excel:** Aplicación de hoja de cálculo ampliamente utilizada para realizar cálculos, crear gráficos y organizar datos.
+- **Framework:** Conjunto de herramientas y reglas que facilita el desarrollo de software al proporcionar una estructura y funcionalidades comunes para los programadores. También es conocido como ‘Marco de trabajo’.
+- **Hibernate:** Framework de mapeo objeto-relacional que facilita el almacenamiento y recuperación de objetos Java en una base de datos.
+- **Java:** Lenguaje de programación de propósito general ampliamente utilizado en el desarrollo de aplicaciones y servicios en línea.
+
 ## 6. Metodología
 
 ### 6.1 Actividades a realizar
