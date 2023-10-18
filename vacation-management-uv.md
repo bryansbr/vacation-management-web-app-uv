@@ -495,6 +495,15 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 - **Oracle Express:** Edición de la base de datos Oracle que ofrece funcionalidades de nivel empresarial en un formato ligero.
 - **PHP:** Lenguaje de programación ampliamente utilizado en el desarrollo de aplicaciones y sitios web dinámicos.
 - **PowerBuilder:** Herramienta de desarrollo de software utilizada para crear aplicaciones empresariales.
+- **Prototipo:** Versión inicial o modelo de un producto o sistema, utilizada para probar conceptos y funcionalidades.
+- **Registro:** Acto de almacenar información o datos en una base de datos para su posterior recuperación.
+- **Reportes:** Documentos o informes que presentan datos, resultados o información detallada sobre un tema específico.
+- **Proceso Unificado de Rational (RUP):** Metodología de desarrollo de software que se centra en la gestión de proyectos y la calidad del software.
+- **Sistema:** Conjunto de componentes interconectados que trabajan juntos para lograr un propósito específico.
+- **SQL Server:** Sistema de gestión de bases de datos desarrollado por Microsoft.
+- **Symfony:** Framework de desarrollo de aplicaciones web en PHP que facilita la creación de aplicaciones web robustas.
+- **Web:** World Wide Web, red de información global que se accede a través de Internet.
+- **Word:** Procesador de texto ampliamente utilizado para crear y editar documentos de texto.
 
 ## 6. Metodología
 
