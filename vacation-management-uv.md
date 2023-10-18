@@ -509,6 +509,18 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 
 ### 6.1 Actividades a realizar
 
+**Objetivo 1:** Realizar la especificación del proceso de gestión de vacaciones mediante diagramas de modelado de procesos de negocio (BPM).
+
+- A1: Investigar y realizar un análisis sobre el procedimiento de solicitud y reintegro de vacaciones en la Universidad, incluyendo todas las consideraciones y reglamentación pertinentes.
+
+- A2: Elaborar diagrama de BPM que detalle de manera específica los procesos de solicitud y reintegro de vacaciones.
+
+**Objetivo 2:** Diseñar e implementar un módulo para el control de fechas calendario de los periodos de vacaciones.
+
+- A3: Realizar un análisis detallado de los requisitos específicos del módulo de control de fechas calendario para los periodos de vacaciones, considerando las tecnologías adecuadas para el desarrollo.
+
+- A4: Desarrollar y probar el módulo empleando las tecnologías seleccionadas para asegurar que pueda integrarse y cumpla con las funcionalidades requeridas, manteniendo buenas prácticas de programación y seguridad.
+
 ### 6.2 Cronograma de actividades
 
 ## 7.2 Presupuesto
