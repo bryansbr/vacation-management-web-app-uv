@@ -533,6 +533,16 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 
 - A8: Desarrollar y probar el módulo, empleando las tecnologías seleccionadas para asegurar que pueda integrarse y cumpla con las funcionalidades requeridas, manteniendo buenas prácticas de programación y seguridad.
 
+**Objetivo 5:** Diseñar e implementar un módulo de reintegro de vacaciones.
+
+- A9: Realizar un análisis detallado de los requisitos y necesidades del módulo de reintegro de vacaciones, considerando las tecnologías adecuadas para el desarrollo.
+
+- A10: Desarrollar y probar el módulo, empleando las tecnologías seleccionadas para asegurar que pueda integrarse y cumpla con las funcionalidades requeridas, manteniendo buenas prácticas de programación y seguridad.
+
+**Objetivo 6:** Evaluar la efectividad de los módulos desarrollados contra las diferentes etapas del proceso de forma manual.
+
+- A11: Realizar comparación estadística sobre la efectividad del proceso de solicitud y reintegro de vacaciones con la aplicación web, versus el proceso manual.
+
 ### 6.2 Cronograma de actividades
 
 ## 7.2 Presupuesto
