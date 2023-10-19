@@ -521,6 +521,18 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 
 - A4: Desarrollar y probar el módulo empleando las tecnologías seleccionadas para asegurar que pueda integrarse y cumpla con las funcionalidades requeridas, manteniendo buenas prácticas de programación y seguridad.
 
+**Objetivo 3:** Diseñar e implementar un módulo para determinar el estado de vacaciones de los funcionarios.
+
+- A5: Realizar un análisis detallado de los requisitos y necesidades del módulo de estado de vacaciones para determinar el estado de vacaciones de los funcionarios, considerando las tecnologías adecuadas para el desarrollo.
+
+- A6: Desarrollar y probar el módulo, empleando las tecnologías seleccionadas para asegurar que pueda integrarse y cumpla con las funcionalidades requeridas, manteniendo buenas prácticas de programación y seguridad.
+
+**Objetivo 4:** Diseñar e implementar un módulo para la solicitud de vacaciones
+
+- A7: Realizar un análisis detallado de los requisitos y necesidades del módulo de solicitud de vacaciones, considerando las tecnologías adecuadas para el desarrollo.
+
+- A8: Desarrollar y probar el módulo, empleando las tecnologías seleccionadas para asegurar que pueda integrarse y cumpla con las funcionalidades requeridas, manteniendo buenas prácticas de programación y seguridad.
+
 ### 6.2 Cronograma de actividades
 
 ## 7.2 Presupuesto
