@@ -543,6 +543,12 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 
 - A11: Realizar comparación estadística sobre la efectividad del proceso de solicitud y reintegro de vacaciones con la aplicación web, versus el proceso manual.
 
+<center>
+
+[**Tabla 2.** Actividades a realizar.](documents\pdf\t2_actividades-a-realizar.pdf)
+
+</center>
+
 ### 6.2 Cronograma de actividades
 
 ## 7.2 Presupuesto
