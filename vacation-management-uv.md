@@ -509,40 +509,6 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 
 ### 6.1 Actividades a realizar
 
-**Objetivo 1:** Realizar la especificación del proceso de gestión de vacaciones mediante diagramas de modelado de procesos de negocio (BPM).
-
-- A1: Investigar y realizar un análisis sobre el procedimiento de solicitud y reintegro de vacaciones en la Universidad, incluyendo todas las consideraciones y reglamentación pertinentes.
-
-- A2: Elaborar diagrama de BPM que detalle de manera específica los procesos de solicitud y reintegro de vacaciones.
-
-**Objetivo 2:** Diseñar e implementar un módulo para el control de fechas calendario de los periodos de vacaciones.
-
-- A3: Realizar un análisis detallado de los requisitos específicos del módulo de control de fechas calendario para los periodos de vacaciones, considerando las tecnologías adecuadas para el desarrollo.
-
-- A4: Desarrollar y probar el módulo empleando las tecnologías seleccionadas para asegurar que pueda integrarse y cumpla con las funcionalidades requeridas, manteniendo buenas prácticas de programación y seguridad.
-
-**Objetivo 3:** Diseñar e implementar un módulo para determinar el estado de vacaciones de los funcionarios.
-
-- A5: Realizar un análisis detallado de los requisitos y necesidades del módulo de estado de vacaciones para determinar el estado de vacaciones de los funcionarios, considerando las tecnologías adecuadas para el desarrollo.
-
-- A6: Desarrollar y probar el módulo, empleando las tecnologías seleccionadas para asegurar que pueda integrarse y cumpla con las funcionalidades requeridas, manteniendo buenas prácticas de programación y seguridad.
-
-**Objetivo 4:** Diseñar e implementar un módulo para la solicitud de vacaciones
-
-- A7: Realizar un análisis detallado de los requisitos y necesidades del módulo de solicitud de vacaciones, considerando las tecnologías adecuadas para el desarrollo.
-
-- A8: Desarrollar y probar el módulo, empleando las tecnologías seleccionadas para asegurar que pueda integrarse y cumpla con las funcionalidades requeridas, manteniendo buenas prácticas de programación y seguridad.
-
-**Objetivo 5:** Diseñar e implementar un módulo de reintegro de vacaciones.
-
-- A9: Realizar un análisis detallado de los requisitos y necesidades del módulo de reintegro de vacaciones, considerando las tecnologías adecuadas para el desarrollo.
-
-- A10: Desarrollar y probar el módulo, empleando las tecnologías seleccionadas para asegurar que pueda integrarse y cumpla con las funcionalidades requeridas, manteniendo buenas prácticas de programación y seguridad.
-
-**Objetivo 6:** Evaluar la efectividad de los módulos desarrollados contra las diferentes etapas del proceso de forma manual.
-
-- A11: Realizar comparación estadística sobre la efectividad del proceso de solicitud y reintegro de vacaciones con la aplicación web, versus el proceso manual.
-
 <center>
 
 [**Tabla 2.** Actividades a realizar.](documents\pdf\t2_actividades-a-realizar.pdf)
