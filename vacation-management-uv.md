@@ -517,6 +517,13 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 
 ### 6.2 Cronograma de actividades
 
+<center>
+
+![](assets\tables\t3_cronograma-actividades-a-realizar.png)
+**Tabla 3.** Cronograma de actividades a realizar.
+
+</center>
+
 ## 7.2 Presupuesto
 
 ### 7.1 Presupuesto total del proyecto
