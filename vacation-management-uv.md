@@ -532,6 +532,8 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 
 ![](assets\tables\t4_presupuesto-total-proyecto.png)
 
+**Tabla 4.** Presupuesto total del proyecto.
+
 </center>
 
 ### 7.2 Presupuesto detallado del personal
