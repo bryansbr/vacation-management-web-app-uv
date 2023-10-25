@@ -542,6 +542,8 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 
 ![](assets\tables\t5_presupuesto-detallado-personal.png)
 
+**Tabla 5.** Presupuesto total del personal.
+
 </center>
 
 ### 7.3 Presupuesto detallado del hardware
