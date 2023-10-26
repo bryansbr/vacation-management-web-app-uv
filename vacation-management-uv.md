@@ -552,6 +552,8 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 
 ![](assets\tables\t6_presupuesto-detallado-hardware.png)
 
+**Tabla 6.** Presupuesto detallado del hardware.
+
 </center>
 
 ## Bibliografía
