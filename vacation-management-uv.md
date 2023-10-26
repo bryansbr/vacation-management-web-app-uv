@@ -548,6 +548,12 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 
 ### 7.3 Presupuesto detallado del hardware
 
+<center>
+
+![](assets\tables\t6_presupuesto-detallado-hardware.png)
+
+</center>
+
 ## Bibliografía
 
 -
