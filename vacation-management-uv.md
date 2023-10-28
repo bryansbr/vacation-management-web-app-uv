@@ -2,27 +2,33 @@
 
 ![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/0c13238f575e286ed7903f70d029b4e2bd8e9f46/assets/univalle-rojopuro-159x226.jpg)
 
-## APLICACIÓN WEB PARA LA GESTIÓN DE VACACIONES DE FUNCIONARIOS DE LA UNIVERSIDAD DEL VALLE
+<span style="font-size: 20px;"><strong>APLICACIÓN WEB PARA LA GESTIÓN DE VACACIONES DE FUNCIONARIOS DE LA UNIVERSIDAD DEL VALLE</strong></span>
 
-BRYAN STEVEN BIOJÓ ROMERO
+<br><br>
 
-201629366
+<span style="font-size: 16px;">BRYAN STEVEN BIOJÓ ROMERO</span>
 
-bryan.biojo@correounivalle.edu.co
+<span style="font-size: 16px;">201629366</span>
 
-### Director:
+<span style="font-size: 16px;">bryan.biojo@correounivalle.edu.co</span>
 
-OSCAR FERNANDO BEDOYA LEYVA, Ph.D.
+<br><br>
 
-oscar.bedoya@correounivalle.edu.co
+<span style="font-size: 16px;"><strong>Director</strong></span>
 
-Facultad de Ingeniería
+<span style="font-size: 16px;">OSCAR FERNANDO BEDOYA LEYVA, Ph.D.</span>
 
-Escuela de Ingeniería de Sistemas y Computación
+<span style="font-size: 16px;">oscar.bedoya@correounivalle.edu.co</span>
 
-Programa Académico de Ingeniería de Sistemas
+<br><br>
 
-Cali, Noviembre 21 de 2023
+<span style="font-size: 16px;">Facultad de Ingeniería</span>
+
+<span style="font-size: 16px;">Escuela de Ingeniería de Sistemas y Computación</span>
+
+<span style="font-size: 16px;">Programa Académico de Ingeniería de Sistemas</span>
+
+<span style="font-size: 16px;">Cali, Noviembre 21 de 2023</span>
 
 </center>
 
@@ -589,4 +595,4 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 
 ## Bibliografía
 
--
+- _Pendiente..._
