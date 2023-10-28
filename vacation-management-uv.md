@@ -87,6 +87,11 @@
 </center>
 
 - Tabla 1. Resultados esperados por objetivos específicos.
+- Tabla 2. Actividades a realizar.
+- Tabla 3. Cronograma de actividades.
+- Tabla 4. Presupuesto total del proyecto.
+- Tabla 5. Presupuesto detallado del personal.
+- Tabla 6. Presupuesto detallado del hardware.
 
 <center>
 
