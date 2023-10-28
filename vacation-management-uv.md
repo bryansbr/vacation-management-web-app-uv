@@ -4,27 +4,27 @@
 
 ## APLICACIÓN WEB PARA LA GESTIÓN DE VACACIONES DE FUNCIONARIOS DE LA UNIVERSIDAD DEL VALLE
 
-### BRYAN STEVEN BIOJÓ ROMERO
+BRYAN STEVEN BIOJÓ ROMERO
 
-### 201629366
+201629366
 
-#### bryan.biojo@correounivalle.edu.co
+bryan.biojo@correounivalle.edu.co
 
-## Director:
+### Director:
 
-### OSCAR FERNANDO BEDOYA LEYVA, Ph.D.
+OSCAR FERNANDO BEDOYA LEYVA, Ph.D.
 
-#### oscar.bedoya@correounivalle.edu.co
+oscar.bedoya@correounivalle.edu.co
 
-#### Facultad de Ingeniería
+Facultad de Ingeniería
 
-#### Escuela de Ingeniería de Sistemas y Computación
+Escuela de Ingeniería de Sistemas y Computación
 
-#### Programa Académico de Ingeniería de Sistemas
+Programa Académico de Ingeniería de Sistemas
 
-#### Cali, Noviembre 21 de 2023
+Cali, Noviembre 21 de 2023
 
-</center><br>
+</center>
 
 <center>
 
@@ -80,7 +80,7 @@
 
 8. Bibliografía
 
-<center><br>
+<center>
 
 ## Listado de tablas
 
@@ -130,7 +130,7 @@ Sin embargo, muchas compañías e instituciones todavía realizan numerosas tare
 
 <p style="text-align: justify;">
 Este trabajo de grado se centra en el desarrollo de una aplicación web que apoye a los funcionarios de la Universidad del Valle en el proceso de gestión de vacaciones (solicitudes y reintegros) con el fin de que sea más rápido y se minimicen posibles errores debido a la intervención humana. Para lograr esto, es necesario identificar cada una de las etapas que se llevan a cabo para tramitar estas solicitudes, así como sus respectivas condiciones y/o restricciones.
-</p><br>
+</p>
 
 ## 1. Planteamiento y Formulación del Problema
 
@@ -161,7 +161,7 @@ Como se puede observar, el problema radica en que si el funcionario no realiza c
 
 <p style="text-align: justify;">
 Por lo tanto, la pregunta de investigación que orienta este trabajo de grado es: ¿Es posible desarrollar una aplicación web que permita determinar el estado actual de las vacaciones de cada funcionario, controlar fechas calendario, automatizar el cálculo de estas fechas teniendo en cuenta todas las restricciones y registrar la aceptación o rechazo de las solicitudes.
-</p><br>
+</p>
 
 ## 2. Justificación del Problema
 
@@ -181,7 +181,7 @@ El proceso actual de gestión de vacaciones conlleva costos significativos y un 
 
 <p style="text-align: justify;">
 Este trabajo de grado impacta positivamente a la Universidad del Valle y puede servir como referencia para optimizar procesos similares dentro de esta o en otras instituciones. La automatización agiliza el acceso a información, fomentando la transparencia y equidad en la gestión. Además, mejora la eficiencia y efectividad en la toma de decisiones.
-</p><br>
+</p>
 
 ## 3. Objetivos
 
@@ -216,19 +216,19 @@ Desarrollar una aplicación web que permita la gestión de vacaciones de los fun
 
 **Tabla 1.** Resultados esperados por objetivos específicos.
 
-</center><br>
+</center>
 
 ## 4. Alcances de la Propuesta
 
 <p style="text-align: justify;">
 Este proyecto de grado se limitará al desarrollo de la aplicación web que permita la gestión del proceso de vacaciones de los funcionarios de la Universidad del Valle. El prototipo se realizará utilizando datos sintéticos.
-</p><br>
+</p>
 
 ## 5. Marco Referencial
 
 <p style="text-align: justify;">
 Este proyecto de grado se limitará al desarrollo de la aplicación web que permita la gestión del proceso de vacaciones de los funcionarios de la Universidad del Valle. El prototipo se realizará utilizando datos sintéticos.
-</p><br>
+</p>
 
 ### 5.1. Glosario
 
@@ -250,7 +250,7 @@ Este proyecto de grado se limitará al desarrollo de la aplicación web que perm
 <li><strong>Universidad:</strong> Institución de educación superior que ofrece programas de enseñanza, investigación y extensión académica.</li>
 <li><strong>Vacaciones colectivas:</strong> Período de descanso otorgado a todos los empleados de una organización al mismo tiempo.</li>
 <li><strong>Vacaciones individuales:</strong> Período de descanso otorgado a un empleado de manera individual, según su derecho y acuerdo laboral.</li>
-</ul><br>
+</ul>
 
 ### 5.2. Estado del Arte
 
@@ -342,7 +342,7 @@ El proceso de solicitud de vacaciones se consolidó de la siguiente forma:
 
 <p style="text-align: justify;">
 De todo el proceso de desarrollo del sistema web se obtuvieron las siguientes conclusiones:
-</p><br>
+</p>
 
 - La aplicación web contribuyó en gran medida a establecer procesos específicos para la concesión de vacaciones y permisos que antes no estaban claramente definidos.
 - La gestión automatizada de la concesión de vacaciones permitió mantener registros actualizados de los saldos de vacaciones, lo que agilizó la emisión de autorizaciones y garantizó respuestas rápidas a las solicitudes.
