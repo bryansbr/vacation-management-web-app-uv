@@ -60,11 +60,23 @@
 
    - 5.2. Estado del Arte.
 
+     - 5.2.1. Implementación de un sistema Web para Talento Humano en la Universidad Central de Ecuador.
+     - 5.2.2. Módulo de Gestión del Personal para el Área de Recursos Humanos para el Hospital San Vicente de Paúl.
+     - 5.2.3. Sistema Web para la Gestión del Recurso Humano de la Dirección Provincial de Educación de Imbabura SIG-RRHH mediante la utilización del framework Symfony.
+     - 5.2.4. Diseño e Implementación de un Sistema para Automatizar la Gestión de Procesos de Contratación de Empleados, Solicitud de Vacaciones y Generación de Certificados Laborales.
+
    - 5.3. Marco Teórico.
 
 6. Metodología
 
+   - 6.1. Actividades a Realizar.
+   - 6.2. Cronograma de Actividades.
+
 7. Presupuesto
+
+   - 7.1. Presupuesto total del proyecto.
+   - 7.2. Presupuesto detallado del personal.
+   - 7.3. Presupuesto detallado del hardware.
 
 8. Bibliografía
 
@@ -520,6 +532,7 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 <center>
 
 ![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/91cc0758f6a96ad3574c417ab63b04b9ce64f6ae/assets/tables/t3_cronograma-actividades-a-realizar.png)
+
 **Tabla 3.** Cronograma de actividades a realizar.
 
 </center>
