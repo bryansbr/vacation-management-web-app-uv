@@ -99,7 +99,20 @@
 
 </center>
 
-- Figura 1.
+- Figura 1. Archivo de vacaciones.
+- Figura 2. Autorización de vacaciones anuales.
+- Figura 3. Prototipo del menú principal.
+- Figura 4. Formulario de registro de vacaciones.
+- Figura 5. Formato de autorización de vacaciones autogenerado.
+- Figura 6: Nuevo registro de vacaciones.
+- Figura 7. Esquema general del proyecto Hospital San Vicente de Paúl.
+- Figura 8. Diagrama de secuencia: Controlar vacaciones.
+- Figura 9. Panel de vacaciones.
+- Figura 10. Formulario de registro de nueva vacación.
+- Figura 11. Formato de solicitud de vacación.
+- Figura 12. Reporte de los registros de vacaciones de los empleados.
+- Figura 13. Diagrama de actividades - Proceso de vacaciones.
+- Figura 14. Diagrama de actividades - Solicitud de vacaciones.
 
 <center>
 
