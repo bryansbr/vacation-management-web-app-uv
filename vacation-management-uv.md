@@ -1,6 +1,6 @@
 <center>
 
-![](assets\univalle-rojopuro-159x226.jpg)
+![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/0c13238f575e286ed7903f70d029b4e2bd8e9f46/assets/univalle-rojopuro-159x226.jpg)
 
 ## APLICACIÓN WEB PARA LA GESTIÓN DE VACACIONES DE FUNCIONARIOS DE LA UNIVERSIDAD DEL VALLE
 
