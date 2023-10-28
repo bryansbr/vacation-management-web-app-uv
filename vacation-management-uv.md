@@ -236,7 +236,7 @@ En el caso de las solicitudes de vacaciones, el empleado debía presentar un ofi
 
 <center>
 
-![](assets\figs\fig1_archivo-vacaciones.png)
+![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/5dd8484d75e248feb3124b642d01edbed5567079/assets/figs/fig1_archivo-vacaciones.png)
 
 **Figura 1.** Archivo de vacaciones. Tomado de [].
 
@@ -248,7 +248,7 @@ Después de registrar la información en la hoja de Excel, se generaba un docume
 
 <center>
 
-![](assets\figs\fig2_autorizacion-vacaciones-anuales.png)
+![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/199137462ea3782ff83cda321220bfa5489adb38/assets/figs/fig2_autorizacion-vacaciones-anuales.png)
 
 **Figura 2.** Autorización de vacaciones anuales. Tomado de [].
 
@@ -276,7 +276,7 @@ Con la implementación del módulo, se logró optimizar el tiempo en los diferen
 
 <center>
 
-![](assets\figs\fig3_prototipo-menu-principal.png)
+![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/e8505f5b89a507bbe38c1d28b3fede781a4dce01/assets/figs/fig3_prototipo-menu-principal.png)
 
 **Figura 3.** Prototipo del menú principal. Tomado de [].
 
@@ -284,7 +284,7 @@ Con la implementación del módulo, se logró optimizar el tiempo en los diferen
 
 <center>
 
-![](assets\figs\fig4_formulario_registro_vacaciones.png)
+![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/e8505f5b89a507bbe38c1d28b3fede781a4dce01/assets/figs/fig4_formulario_registro_vacaciones.png)
 
 **Figura 4.** Formulario de registro de vacaciones. Tomado de [].
 
@@ -292,7 +292,7 @@ Con la implementación del módulo, se logró optimizar el tiempo en los diferen
 
 <center>
 
-![](assets\figs\fig5_formato-autorizacion-vacaciones.png)
+![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/e8505f5b89a507bbe38c1d28b3fede781a4dce01/assets/figs/fig5_formato-autorizacion-vacaciones.png)
 
 **Figura 5.** Formato de autorización de vacaciones autogenerado. Tomado de [].
 
@@ -304,7 +304,7 @@ El proceso de solicitud de vacaciones se consolidó de la siguiente forma:
 
 <center>
 
-![](assets\figs\fig6_nuevo-registro-vacaciones.png)
+![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/e8505f5b89a507bbe38c1d28b3fede781a4dce01/assets/figs/fig6_nuevo-registro-vacaciones.png)
 
 **Figura 6.** Nuevo Registro de Vacaciones. Tomado de [].
 
@@ -327,7 +327,7 @@ El departamento de Recursos Humanos del Hospital San Vicente de Paúl en Ibarra,
 
 <center>
 
-![](assets\figs\fig7_esquema-general-proyecto-hsvdp.png)
+![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/1842ed07b4f48d51830fc09b8e4c21d1c26eca83/assets/figs/fig7_esquema-general-proyecto-hsvdp.png)
 
 **Figura 7.** Esquema general del proyecto Hospital San Vicente de Paúl. Tomado de [].
 
@@ -351,7 +351,7 @@ El proceso de solicitud y aprobación de vacaciones se consolidó de la siguient
 
 <br><center>
 
-![](assets\figs\fig8_diagrama-secuencia-controlar-vacaciones.png)
+![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/f107fe2302dcbba26d3d164575c1249eb2b0068a/assets/figs/fig8_diagrama-secuencia-controlar-vacaciones.png)
 
 **Figura 8.** Diagrama de secuencia: Controlar vacaciones. Tomado de [].
 
@@ -363,7 +363,7 @@ El panel de vacaciones resultante incluía todas las operaciones relacionadas co
 
 <center>
 
-![](assets\figs\fig9_panel-vacaciones.png)
+![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/2231acfce1f7ec6c0dd57924e247f5be29c23d99/assets/figs/fig9_panel-vacaciones.png)
 
 **Figura 9.** Panel de vacaciones. Tomado de [].
 
@@ -371,7 +371,7 @@ El panel de vacaciones resultante incluía todas las operaciones relacionadas co
 
 <center>
 
-![](assets\figs\fig10_formulario-registro-nueva-vacacion.png)
+![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/2231acfce1f7ec6c0dd57924e247f5be29c23d99/assets/figs/fig10_formulario-registro-nueva-vacacion.png)
 
 **Figura 10.** Formulario de registro de nueva vacación. Tomado de [].
 
@@ -379,7 +379,7 @@ El panel de vacaciones resultante incluía todas las operaciones relacionadas co
 
 <center>
 
-![](assets\figs\fig11_formato-solicitud-vacacion.png)
+![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/2231acfce1f7ec6c0dd57924e247f5be29c23d99/assets/figs/fig11_formato-solicitud-vacacion.png)
 
 **Figura 11.** Formato de solicitud de vacación. Tomado de [].
 
@@ -391,7 +391,7 @@ También se podían generar reportes del estado de vacaciones de los empleados:
 
 <center>
 
-![](assets\figs\fig12_reportes-registros-vacaciones-empleados.png)
+![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/651f77ba771348a68f22d9c15e59022cf296f96c/assets/figs/fig12_reportes-registros-vacaciones-empleados.png)
 
 **Figura 12.** Reporte de los registros de vacaciones de los empleados. Tomado de [].
 
@@ -435,7 +435,7 @@ Para el apartado de vacaciones se consolidó el siguiente proceso:
 
 <br><center>
 
-![](assets\figs\fig13_diagrama-actividades-proceso-vacaciones.png)
+![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/af2bc32ed2fea7e63def1277e9ac91e4c2ca78e6/assets/figs/fig13_diagrama-actividades-proceso-vacaciones.png)
 
 **Figura 13.** Diagrama de actividades - Proceso de vacaciones. Tomado de [].
 
@@ -465,7 +465,7 @@ Para el desarrollo de la solución, se utilizó el lenguaje de programación PHP
 
 <center>
 
-![](assets\figs\fig14_diagrama-actividades-solicitud-vacaciones.png)
+![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/c01a0060ab33a9eca324c1228da2c4439f921222/assets/figs/fig14_diagrama-actividades-solicitud-vacaciones.png)
 
 **Figura 14.** Diagrama de actividades - Solicitud de vacaciones. Tomado de [].
 
@@ -511,7 +511,7 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 
 <center>
 
-[**Tabla 2.** Actividades a realizar.](documents\pdf\t2_actividades-a-realizar.pdf)
+[**Tabla 2.** Actividades a realizar.](https://github.com/bryansbr/vacation-management-web-app-uv/blob/7e9840d9d73b85f25aeea994bb7a797959f054da/assets/documents/pdf/t2_actividades-a-realizar.pdf)
 
 </center>
 
@@ -519,7 +519,7 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 
 <center>
 
-![](assets\tables\t3_cronograma-actividades-a-realizar.png)
+![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/91cc0758f6a96ad3574c417ab63b04b9ce64f6ae/assets/tables/t3_cronograma-actividades-a-realizar.png)
 **Tabla 3.** Cronograma de actividades a realizar.
 
 </center>
@@ -530,7 +530,7 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 
 <center>
 
-![](assets\tables\t4_presupuesto-total-proyecto.png)
+![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/a7d791c70112be0b43c09f749f09b83d5d1b6a41/assets/tables/t4_presupuesto-total-proyecto.png)
 
 **Tabla 4.** Presupuesto total del proyecto.
 
@@ -540,7 +540,7 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 
 <center>
 
-![](assets\tables\t5_presupuesto-detallado-personal.png)
+![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/56e4d7e9e22fc99ffca44a7b78e7cac74e3b3363/assets/tables/t5_presupuesto-detallado-personal.png)
 
 **Tabla 5.** Presupuesto total del personal.
 
@@ -550,7 +550,7 @@ Del proceso de desarrollo se obtuvieron las siguientes conclusiones:
 
 <center>
 
-![](assets\tables\t6_presupuesto-detallado-hardware.png)
+![](https://github.com/bryansbr/vacation-management-web-app-uv/blob/1a5aab4749c91ca0aea1ff496484cb5b3e730ef4/assets/tables/t6_presupuesto-detallado-hardware.png)
 
 **Tabla 6.** Presupuesto detallado del hardware.
 
